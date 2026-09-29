@@ -69,6 +69,14 @@ Projects21 / Inkubasi-Startup-BTP
 │   ├── 📁 references/                      # Berkas sumber asli (PDF Buku TA, Paper GENY, Laporan Final, CSV)
 │   └── 📁 assets/                          # Grafik visualisasi data terverifikasi (chart1 s.d. chart7)
 │
+├── 📁 wawancara/                           # INSTRUMEN LENGKAP WAWANCARA CUSTOMER DISCOVERY LAPANGAN
+│   ├── README.md                           # Hub master metodologi, arsitektur 2 tahap, & integrasi SRL-0
+│   ├── pertanyaan_wawancara.md             # 76 Pertanyaan emas 4 persona (Hamil, Balita, Catin, Kader)
+│   ├── goals_wawancara.md                  # Kerangka evaluasi, interpretasi U1-N11 & T1-T3, triangulasi
+│   ├── template_lembar_rekap_narasumber.md # Template isian transkrip 1-on-1 & pelacak saturasi tematik
+│   ├── informed_consent_dan_protokol_etika.md # Naskah persetujuan lisan/tertulis, UU PDP, & mitigasi risiko
+│   └── matriks_sampling_dan_wilayah_riset.md # Matriks 5 Sel (Sel A-E), 8 wilayah Jatim, & stopping rule
+│
 ├── 📁 SRL 0/ s.d. 📁 SRL 9/                # Modul Panduan Startup Readiness Level (SRL) BTP
 │   ├── SRL 0: Competencies & Target Market Analysis
 │   ├── SRL 1: Problem Validation (Understand Before Solution)
@@ -88,7 +96,7 @@ Projects21 / Inkubasi-Startup-BTP
 
 ---
 
-## 💡 Rangkuman 5 Pilar Utama Ekosistem BTP
+## 💡 Rangkuman 6 Pilar Utama Ekosistem BTP
 
 ### 1. 💼 Tata Kelola Dana Operasional (*Operational Funding*)
 Setiap startup yang terpilih mendapatkan fasilitas dana operasional tahap awal untuk validasi lapangan dan pengembangan prototipe.
@@ -150,6 +158,17 @@ Pilar penelitian sekunder, data crawling komprehensif, dan validasi matematis al
 * **Referensi Utama 1 (Paper GENY, IBITeC 2026):** Model Decision Tree CART pada 304.193 balita SKI 2023 (akurasi 75,57%, screening PPV 92,76%), membuktikan tinggi badan dan usia mendominasi 98,23% *feature importance*, serta evaluasi model tanpa TB/usia (macro F1 0,3565).
 * **Referensi Utama 2 (Buku Tugas Akhir Gerrard Sebastian, 160 Hlm):** Sistem pemantauan stunting Kalteng dengan Fuzzy Sugeno & Genetic Algorithm, analisis trayektori ganda (*Dual HAZ baseline vs pengukuran*), serta pelajaran audit data (koreksi tautan ibu kandung `NO_IBU` dan bias umur bulan penuh).
 * 📄 *Dokumentasi lengkap:* [Folder 05 : Laporan Data Crawling & Referensi Utama](file:///Users/sinitygs/Projects21/05-laporan-data-crawling/README.md)
+
+---
+
+### 6. 🎤 Instrumen Wawancara Customer Discovery & Validasi Lapangan (Folder wawancara)
+Panduan operasional dan instrumen komprehensif wawancara mendalam bebas bias (*in-depth customer discovery interview*) yang menjembatani masterclass workshop BTP dengan eksekusi lapangan:
+* **Integrasi Metodologi Workshop Sesi 1 & 3:** Penerapan 6 Pertanyaan Emas Pak Indra Purnama, prinsip mendengarkan 80/20, larangan keras mempresentasikan solusi/jualan di awal (*anti-pitching*), validasi masalah sebelum teknologi (Vitamin vs Painkiller) dari Kak Mumu, probing berjenjang *5-Whys Laddering*, serta pengujian prototipe pada 30–50 *end consumers* dan 3–5 *decision makers*.
+* **Instrumen 76 Pertanyaan Emas (4 Persona Terstruktur):** Menjangkau Ibu Hamil (H1–H10, ANC, KEK), Ibu Balita (B1–B11, MPASI, GTM, kurva WHO), Calon Pengantin (C1–C10, kesiapan pranikah, Elsimil), dan Tenaga Kesehatan / Kader Posyandu (N1–N11, ILP, e-PPGBM, arsitektur offline-first).
+* **Arsitektur 2 Tahap (*Stage 1 vs Stage 2*):** Pemisahan tegas antara Tahap 1 (Problem Discovery murni & dekonstruksi akar masalah) dengan Tahap 2 (Validasi Reaksi 3 Pilar Fitur Geny StuntCare & pengujian kesediaan membayar / WTP).
+* **Triangulasi Saintifik & Matriks Sampling 5 Sel:** Penerapan sampling purposif Sel A (Miskin Stunting), Sel B (Miskin Sehat / *Positive Deviance*), Sel C (Mampu Stunting), Sel D (Mampu Sehat), dan Sel E (Kader/Nakes) di 8 titik wilayah Jawa Timur (Sidoarjo, Malang, Surabaya, Banyuwangi, Magetan, Jember).
+* **Kepatuhan Etika & UU PDP:** Protokol informed consent lisan/tertulis, enkripsi kode unik responden (`IB-01`, `NK-01`), dan perlindungan kerahasiaan data medis balita.
+* 📄 *Instrumen lengkap:* [Folder wawancara : Panduan & Instrumen Customer Discovery](file:///Users/sinitygs/Projects21/wawancara/README.md) | [76 Pertanyaan Wawancara](file:///Users/sinitygs/Projects21/wawancara/pertanyaan_wawancara.md) | [Goals & Interpretasi](file:///Users/sinitygs/Projects21/wawancara/goals_wawancara.md) | [Template Lembar Rekap](file:///Users/sinitygs/Projects21/wawancara/template_lembar_rekap_narasumber.md) | [Protokol Etika & Consent](file:///Users/sinitygs/Projects21/wawancara/informed_consent_dan_protokol_etika.md) | [Matriks Sampling](file:///Users/sinitygs/Projects21/wawancara/matriks_sampling_dan_wilayah_riset.md)
 
 ---
 
