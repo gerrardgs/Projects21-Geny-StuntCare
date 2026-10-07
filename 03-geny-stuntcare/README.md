@@ -9,3 +9,4 @@ Folder ini mendokumentasikan profil bisnis dan rencana kerja eksekusi validasi l
 
 ## Akses Platform:
 * **Website Platform:** [genystuntcare.com](https://genystuntcare.com)
+* **Video Bumper & Teaser Resmi:** [Google Drive - Bumper GENY](https://drive.google.com/drive/folders/1zbQbYhZLMI7kWot4JxXq02Xz1fBZEr77)

@@ -119,6 +119,7 @@ Solusi kami berdiri di atas data empiris yang kuat, bukan dugaan subjektif semat
 
 ### 3. 🚀 Startup Geny StuntCare & Rencana Aksi SLR 1
 * **Platform Utama:** [genystuntcare.com](https://genystuntcare.com)
+* **Bumper Video & Teaser Resmi:** [Google Drive - Bumper GENY](https://drive.google.com/drive/folders/1zbQbYhZLMI7kWot4JxXq02Xz1fBZEr77)
 * **Intisari Action Plan Validasi Masalah (Berdasarkan Catatan SLR 1):**
   * **5 Pertanyaan Kunci:** Membedah tuntas siapa *customer* (faskes, dinas, Yakes, CSR), siapa *user* (ibu muda, ibu bekerja, kader posyandu), apa aktivitas mereka, apa kebutuhan esensialnya, dan di mana mereka berkumpul.
   * **Audit Internal Platform:** Meninjau jumlah akun terdaftar saat ini, sebaran demografi pengguna, dan mengukur rasio pengguna aktif yang rutin melakukan *login ulang* untuk memantau kurva balita.
